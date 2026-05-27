@@ -1,0 +1,12 @@
+{
+  "name": "examhelper",
+  "version": "1.0.0",
+  "description": "学霸题库 HarmonyOS NEXT app",
+  "main": "",
+  "author": "example",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hvigor-ohos-plugin": "5.0.0"
+  }
+}

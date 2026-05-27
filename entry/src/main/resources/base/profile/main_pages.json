@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/GradePage",
+    "pages/SubjectPage",
+    "pages/PaperListPage",
+    "pages/QuestionDetailPage",
+    "pages/FavoritesPage",
+    "pages/SearchPage"
+  ]
+}

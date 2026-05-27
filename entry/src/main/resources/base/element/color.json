@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "primary",
+      "value": "#FF3B7DFF"
+    },
+    {
+      "name": "background",
+      "value": "#FFF6F7FB"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FF1F2937"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#FF6B7280"
+    }
+  ]
+}

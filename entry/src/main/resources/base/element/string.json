@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "entry_label",
+      "value": "学霸题库"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "学霸题库"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "学霸题库入口能力"
+    }
+  ]
+}
