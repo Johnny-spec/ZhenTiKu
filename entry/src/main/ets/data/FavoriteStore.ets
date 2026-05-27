@@ -1,4 +1,4 @@
-// ?????????
+// 收藏存储：基于 @ohos.data.preferences 的持久化封装
 import preferences from '@ohos.data.preferences';
 import common from '@ohos.app.ability.common';
 
@@ -58,7 +58,7 @@ export class FavoriteStore {
 
   private ensureReady(): preferences.Preferences {
     if (this.pref === undefined) {
-      throw new Error('FavoriteStore??????????init(context)');
+      throw new Error('FavoriteStore 未初始化，请先调用 init(context)');
     }
     return this.pref;
   }

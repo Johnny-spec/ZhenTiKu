@@ -1,4 +1,4 @@
-// ????????
+// 题库相关类型定义
 export enum QuestionType {
   CHOICE = 'choice',
   FILL = 'fill',
